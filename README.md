@@ -1,15 +1,15 @@
 # Invoice-Generator-using-React
-# Invoice Generator
+## Invoice Generator
 This project is a React.js application for generating invoices based on user input. It allows users to input seller details, billing details, shipping details, order details, and item details to create a comprehensive invoice.
 
-# Table of Contents
+## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 
-# Features
+## Features
 - Placeholder for the company logo
 - Input fields for seller details, billing details, shipping details, order details, and item details
 - Calculation of net amount, tax amount, and total amount payable
@@ -19,14 +19,14 @@ This project is a React.js application for generating invoices based on user inp
 - Amount in words conversion
 - Option to handle reverse charge
 
-# Installation
--Install the dependencies for the server: 
--npm install @mui/material @emotion/react @emotion/styled @mui/styled-engine-sc styled-components number-to-words
--npm start
--Open your browser and navigate to http://localhost:3000.
--Fill in the required details in the form to generate an invoice.
+## Installation
+- Install the dependencies for the server: 
+- npm install @mui/material @emotion/react @emotion/styled @mui/styled-engine-sc styled-components number-to-words
+- npm start
+- Open your browser and navigate to http://localhost:3000.
+- Fill in the required details in the form to generate an invoice.
 
-# File Structure:
+## File Structure:
 invoice-generator
 ├── public
 ├── src
@@ -35,20 +35,20 @@ invoice-generator
 │   ├── App.jsx
 │   ├── index.jsx
 │   └── App.css
-|   └── index.css
+│   └── index.css
 ├── .gitignore
 ├── README.md
 └── package.json
 
-# Usage
+## Usage
 - Fill in the required details in the form to generate an invoice.
 - Add multiple items if needed.
 - Upload a signature image.
 - The generated invoice will be displayed with calculated amounts and tax details.
 
-# Technologies Used
-React.js
-Material-UI
+## Technologies Used
+- React.js
+- Material-UI
 
-# Utilities:
-number-to-words: For converting amounts to words
+## Utilities:
+-number-to-words: For converting amounts to words
