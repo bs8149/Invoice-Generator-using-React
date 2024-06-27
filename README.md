@@ -6,7 +6,6 @@ This project is a React.js application for generating invoices based on user inp
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -25,20 +24,6 @@ This project is a React.js application for generating invoices based on user inp
 - npm start
 - Open your browser and navigate to http://localhost:3000.
 - Fill in the required details in the form to generate an invoice.
-
-## File Structure:
-invoice-generator
-├── public
-├── src
-│   ├── components
-│   │   └── InvoiceForm.js
-│   ├── App.jsx
-│   ├── index.jsx
-│   └── App.css
-│   └── index.css
-├── .gitignore
-├── README.md
-└── package.json
 
 ## Usage
 - Fill in the required details in the form to generate an invoice.
