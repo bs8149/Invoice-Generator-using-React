@@ -36,4 +36,4 @@ This project is a React.js application for generating invoices based on user inp
 - Material-UI
 
 ## Utilities:
--number-to-words: For converting amounts to words
+- number-to-words: For converting amounts to words
