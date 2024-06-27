@@ -45,7 +45,6 @@ const InvoiceForm = () => {
     ],
     signatureImage: "",
   });
-  const [generatedInvoice, setGeneratedInvoice] = useState("");
 
   const handleChange = (e) => {
     const { name, value } = e.target;
